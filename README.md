@@ -34,14 +34,6 @@ Web extension that detects the video, and allows you to apply the filter (blur/o
 
 ## Installation
 
-### For Chrome
-
-#### From Chrome Web Store
-
-1. Visit the [FilterVideo Chrome Web Store page](https://chromewebstore.google.com/detail/filtervideo/gchjhchmcjnphmbkmllgfalidiakaoea)
-2. Read the description and reviews
-3. Click "Add to Chrome" if you're happy with the extension or just want to try it out
-
 #### From Source
 
 1. Clone this repository
